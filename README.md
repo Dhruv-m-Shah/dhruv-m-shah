@@ -1,4 +1,3 @@
-### Hi there, I'm Dhruv Shah! 👋
 <h1 align="center">
   <br>
   <img src="https://github.com/Dhruv-m-Shah/dhruv-m-shah/blob/master/images/Trimmed-Vid.gif" alt="Dhruv Shah" width="1000">
