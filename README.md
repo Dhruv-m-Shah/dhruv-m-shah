@@ -2,6 +2,9 @@
   <br>
   <img src="https://github.com/Dhruv-m-Shah/dhruv-m-shah/blob/master/images/ezgif.com-video-to-gif%20(1).gif" alt="Dhruv Shah" width="1000">
 </h1>
+
+# About Me
+Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have experience in Full Stack Development, having done my previous internship at Danima Creative Group. I am currently interning for RBC as a Software Developer. When I am not coding, I love travelling. Some places I visited include: Germany, Belgium, Netherlands, France, Switzerland, Luxembourg, and India. Free free to reach out to me at d52shah@uwaterloo.ca 😄
 <!--
 **Dhruv-m-Shah/dhruv-m-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
