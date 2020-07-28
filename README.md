@@ -1,7 +1,7 @@
 ### Hi there, I'm Dhruv Shah! 👋
 <h1 align="center">
   <br>
-  <img src="" alt="Dhruv Shah" width="1000">
+  <img src="https://github.com/Dhruv-m-Shah/dhruv-m-shah/blob/master/images/Trimmed-Vid.gif" alt="Dhruv Shah" width="1000">
 </h1>
 <!--
 **Dhruv-m-Shah/dhruv-m-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
