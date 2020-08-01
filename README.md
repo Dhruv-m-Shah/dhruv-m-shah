@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/Dhruv-m-Shah/dhruv-m-shah/blob/master/images/2020-07-28%2017-08-12_Trim%20(online-video-cutter.com)%20(2).gif" alt="Dhruv Shah" width="1000">
+  <img src="https://github.com/Dhruv-m-Shah/dhruv-m-shah/blob/master/images/whiteBackground.gif" alt="Dhruv Shah" width="1000">
 </h1>
 
 # About Me
