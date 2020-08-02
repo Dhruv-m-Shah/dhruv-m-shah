@@ -4,7 +4,7 @@
 </h1>
 
 # About Me
-Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have experience in full stack development, having done my previous internship at Danima Creative Group. I am currently interning for RBC as a Software Developer. When I am not coding, I love travelling. Some places I visited include: Germany, Belgium, Netherlands, France, Switzerland, Luxembourg, USA, and India. Feel free to reach out to me at d52shah@uwaterloo.ca 😄
+Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have experience in full stack development, having done my previous internship at Danima Creative Group. I am currently interning for RBC as a Software Developer. When I am not coding, I love travelling. Some places I visited include: Germany, Belgium, Netherlands, France, Switzerland, Luxembourg, USA, and India. I am currently searching for Winter 2021 internships for Software Engineering or Data. Feel free to reach out to me at d52shah@uwaterloo.ca 😄
 
 <!--
 **Dhruv-m-Shah/dhruv-m-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
