@@ -6,12 +6,20 @@
 # About Me
 Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have experience in full stack development, having done my previous internship at Danima Creative Group. I am currently interning for RBC as a Software Developer. When I am not coding, I love travelling. Some places I visited include: Germany, Belgium, Netherlands, France, Switzerland, Luxembourg, USA, and India. I am currently searching for Winter 2021 internships for Software Engineering or Data. Feel free to reach out to me at d52shah@uwaterloo.ca 😄
 
+
+🔭 I’m currently working on
+- Interning at RBC, creating a file storage restAPI in Node.js
+- Making an C++ interpreted programming language.
+- Integrating Valorant game data on my discord bot <a href = "http://www.gromp.xyz/">GROMP</a> for analyzing, creating, and sharing player statistics.
+- Developing the applicant dashboard for Golden Hack, Canada's first business and entrepreneurship hackathon.
+- Using Node.js and Firebase to create ToHacks applicant dashboard for echoAR and ToHacks.
+
 <!--
 **Dhruv-m-Shah/dhruv-m-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
