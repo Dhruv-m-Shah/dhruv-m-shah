@@ -12,7 +12,7 @@ Hey, I am a 2A double degree student at the University of Waterloo pursuing Comp
 - Making an C++ interpreted programming language.
 - Integrating Valorant game data on my discord bot <a href = "http://www.gromp.xyz/">GROMP</a> for analyzing, creating, and sharing player statistics.
 - Developing the applicant dashboard for Golden Hack, Canada's first business and entrepreneurship hackathon.
-- Using Node.js and Firebase to create ToHacks applicant dashboard for echoAR and ToHacks.
+- Using Node.js and Firebase to create an applicant dashboard for echoAR and ToHacks.
 
 <!--
 **Dhruv-m-Shah/dhruv-m-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
