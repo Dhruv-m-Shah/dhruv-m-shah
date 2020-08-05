@@ -7,7 +7,7 @@
 Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have experience in full stack development, having done my previous internship at Danima Creative Group. I am currently interning for RBC as a Software Developer. When I am not coding, I love travelling. Some places I visited include: Germany, Belgium, Netherlands, France, Switzerland, Luxembourg, USA, and India. I am currently searching for Winter 2021 internships for Software Engineering or Data. Feel free to reach out to me at d52shah@uwaterloo.ca 😄
 
 
-🔭 I’m currently working on
+# 🔭 I’m currently working on
 - Interning at RBC under Technology and Operations department, creating a file storage restAPI in Node.js for their LeoPages application.
 - Making a C++ interpreted programming language, called Cumin.
 - Integrating Valorant game data on my discord bot <a href = "http://www.gromp.xyz/">GROMP</a> for analyzing, creating, and sharing player statistics.
