@@ -8,7 +8,6 @@ Hey, I am a 2A double degree student at the University of Waterloo pursuing Comp
 
 
 # 🔭 I’m currently working on
-- Interning at RBC under Technology and Operations department, creating a file storage restAPI in Node.js for their LeoPages application.
 - Making a C++ interpreted programming language, called Cumin.
 - Integrating Valorant game data on my discord bot <a href = "http://www.gromp.xyz/">GROMP</a> for analyzing, creating, and sharing player statistics.
 - Full stack developer for Golden Hack, Canada's first business and entrepreneurship hackathon.
