@@ -9,6 +9,7 @@ Hey, I am a 2A double degree student at the University of Waterloo pursuing Comp
 
 # 🔭 I’m currently working on
 - Making a C++ interpreted programming language, called Cumin.
+- Creating an online IDE for the Cumin language in React.
 - Integrating Valorant game data on my discord bot <a href = "http://www.gromp.xyz/">GROMP</a> for analyzing, creating, and sharing player statistics.
 - Full stack developer for Golden Hack, Canada's first business and entrepreneurship hackathon.
 - Using Node.js and Firebase to create an applicant dashboard for echoAR and ToHacks.
