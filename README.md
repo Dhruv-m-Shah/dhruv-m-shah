@@ -4,7 +4,7 @@
 </h1>
 
 # About Me
-Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. Feel free to reach out to me at d52shah@uwaterloo.ca
+I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. Feel free to reach out to me at d52shah@uwaterloo.ca
 
 
 # 🔭 I’m currently working on
