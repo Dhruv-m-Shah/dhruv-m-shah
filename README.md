@@ -4,7 +4,7 @@
 </h1>
 
 # About Me
-Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have experience in full stack and software development, having done my previous internships at the Royal Bank of Canada and Danima Creative Group. When I am not coding, I love travelling. Some places I visited include: Germany, Belgium, Netherlands, France, Switzerland, Luxembourg, USA, and India. I am currently searching for Winter 2021 internships (January to April) for Software Engineering or Data. Feel free to reach out to me at d52shah@uwaterloo.ca 😄
+Hey, I am a 2A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. Feel free to reach out to me at d52shah@uwaterloo.ca
 
 
 # 🔭 I’m currently working on
