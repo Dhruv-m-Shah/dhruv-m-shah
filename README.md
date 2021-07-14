@@ -11,7 +11,6 @@ I am a 2A double degree student at the University of Waterloo pursuing Computer 
 - Making a C++ interpreted programming language, called <a href = "https://github.com/Dhruv-m-Shah/Cumin">Cumin</a>.
 - Creating an <a href="https://github.com/Dhruv-m-Shah/CuminIDE">online IDE</a> for the Cumin programming language in React. Using webassembly and C++ to create the code interpreter.
 - Integrating Valorant game data on my discord bot <a href = "http://www.gromp.xyz/">GROMP</a> for analyzing, creating, and sharing player statistics.
-- Using Node.js, React, and Firebase to create an applicant dashboard for echoAR and ToHacks.
 - Creating a 2-player strategy game with Unity and the Photon Engine.
 
 <!--
