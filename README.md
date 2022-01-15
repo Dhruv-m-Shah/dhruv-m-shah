@@ -4,7 +4,7 @@
 </h1>
 
 # About Me
-I am a 3A double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have previously worked at DANIMA Creative Group, RBC, and Dropbase. Feel free to reach out to me at d52shah@uwaterloo.ca
+I am a double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have previously worked at DANIMA Creative Group, RBC, and Dropbase. Currently SWE Intern @ Bloomberg. Feel free to reach out to me at d52shah@uwaterloo.ca
 
 
 # 🔭 I’m currently working on
