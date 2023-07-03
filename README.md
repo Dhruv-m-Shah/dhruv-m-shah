@@ -4,7 +4,7 @@
 </h1>
 
 # About Me
-I am a double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have previously worked at DANIMA Creative Group, RBC, and Dropbase, and Bloomberg.
+I am a double degree student at the University of Waterloo pursuing Computer Science and Business Administration. I have previously worked at DANIMA Creative Group, RBC, and Dropbase, and Bloomberg, and Databricks.
 
 # 🔭 I’m currently working on
 - Making a C++ interpreted programming language, called <a href = "https://github.com/Dhruv-m-Shah/Cumin">Cumin</a>.
